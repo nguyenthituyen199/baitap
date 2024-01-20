@@ -268,7 +268,7 @@
                     }
                 },
                 {
-                    "source": "I:\\doan\\vpp\\baocaodidong\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "I:\\VPP_GIAPHUC\\baitap\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -757,7 +757,7 @@
             "outputFile": "com.example.cryptoapp-merged_res-11:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "I:\\doan\\vpp\\baocaodidong\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "I:\\VPP_GIAPHUC\\baitap\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->I:\doan\vpp\baocaodidong\android\app\src\debug\AndroidManifest.xml:7:5-66
-15-->I:\doan\vpp\baocaodidong\android\app\src\debug\AndroidManifest.xml:7:22-64
+15-->I:\VPP_GIAPHUC\baitap\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->I:\VPP_GIAPHUC\baitap\android\app\src\debug\AndroidManifest.xml:7:22-64
 16
 17    <application
 18        android:name="android.app.Application"
